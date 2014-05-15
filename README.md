@@ -35,3 +35,9 @@ clients/voxelaria/mods/  zip-jar файлы, модов, можно исполь
 подпапки mods/lib/lib.jar
 clients/voxelaria/coremods/ zip-jar файлы коремодов (используется
 только устаревшими версиями minecraft)
+
+Приватный сервер terafirmacraft 1.6.4
+Кто хочет повыживать с нами в самом суровом моде terafirmacraft, го к нам.
+Авторизация с моджанг (лицензия).
+Готовый клиент -> http://yadi.sk/d/-xkbOm13QJDQX
+ip 144.76.234.195:20065
